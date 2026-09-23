@@ -42,6 +42,8 @@ conference:
       url: 'https://nordan-conference.github.io/archives'
     breakpoint: md
     links:
+        - name: 2026
+          relative_url: /2026/
         - name: 2025
           relative_url: /2025/
         - name: 2024
